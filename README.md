@@ -11,7 +11,9 @@ The headers should have the following names and be in the following order:
 *group
 
 netid = the unique identifier for the student given by uiuc (the part of their email before @illinois.edu)
+
 linkedin = the URL of their linkedin
+
 group = the name of their group (without the word "group", this will be added by the program)
 
 ## Use of the program
