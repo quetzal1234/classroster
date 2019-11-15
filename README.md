@@ -3,6 +3,7 @@
 To use this program, you need a .csv with headers.
 
 The headers should have the following names and be in the following order:
+
 *First Name
 *Last Name
 *netid
