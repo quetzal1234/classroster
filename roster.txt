@@ -1,0 +1,8 @@
+<h2>Group Baxter</h2>
+<p>Lena Bohman <a href="https://www.linkedin.com/in/lena-bohman-8ab37aa7/"><img src="http://i.imgur.com/Z9pDAGI.png" alt="Linkedin profile: Lena Bohman" height="15px" width="15px" margin="1px" /></a> <a href = 'mailto:lbohman2@illinois.edu'>lbohman2@illinois.edu</a>, 
+James Bohman <a href="https://www.linkedin.com/in/lena-bohman-8ab37aa7/"><img src="http://i.imgur.com/Z9pDAGI.png" alt="Linkedin profile: James Bohman" height="15px" width="15px" margin="1px" /></a> <a href = 'mailto:jbohman2@illinois.edu'>jbohman2@illinois.edu</a>, 
+</p><h2>Group Sadie</h2> 
+<p>Clara Arnold <a href="https://www.linkedin.com/in/lena-bohman-8ab37aa7/"><img src="http://i.imgur.com/Z9pDAGI.png" alt="Linkedin profile: Clara Arnold" height="15px" width="15px" margin="1px" /></a> <a href = 'mailto:carnold2@illinois.edu'>carnold2@illinois.edu</a>, 
+</p><h2>Group Kenzi</h2> 
+<p>Gretchen Arnold <a href="https://www.linkedin.com/in/lena-bohman-8ab37aa7/"><img src="http://i.imgur.com/Z9pDAGI.png" alt="Linkedin profile: Gretchen Arnold" height="15px" width="15px" margin="1px" /></a> <a href = 'mailto:garnold2@illinois.edu'>garnold2@illinois.edu</a>, 
+</p>
