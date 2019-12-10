@@ -21,25 +21,25 @@ for line in csvin:
     else:
         groups[group].append(student)
 
-def missinglink(linkedin):
+def missinglink(linkedin,firstname,lastname):
     if linkedin == "":
-        linkedinline = "</h3>"
+        linkedinline = " "
     else:
-        linkedinline = '<a href="'+linkedin+'"><img src="http://i.imgur.com/Z9pDAGI.png" height="15px" width="15px" margin="1px" /></a></h3>'
+        linkedinline = '<a href="'+linkedin+'"><img src="http://i.imgur.com/Z9pDAGI.png" alt="Linkedin profile: '+firstname+" "+lastname+'" height="15px" width="15px" margin="1px" /></a> '
     return linkedinline
 
 for key in groups:
     students = groups[key]
-    groupline = "<h2>Group"+key+"</h2> \n"
+    groupline = "</p><h2>Group "+key+"</h2> \n<p>"
     outfile.write(groupline)
     for student in students:
         firstname = student[0]
         lastname = student[1]
         email = student[3]
         linkedin = student[4]
-        nameline = "<h3>"+firstname+" "+lastname+" "
-        emailline = "<a href = "+"'mailto:"+email+"'>"+email+"</a> \n"
-        studenthtml = nameline+missinglink(linkedin)+emailline
+        nameline = firstname+" "+lastname+" "
+        emailline = "<a href = "+"'mailto:"+email+"'>"+email+"</a>, \n"
+        studenthtml = nameline+missinglink(linkedin,firstname,lastname)+emailline
         outfile.write(studenthtml)
 outfile.close()
 infile.close()
