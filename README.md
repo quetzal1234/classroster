@@ -28,4 +28,4 @@ The program will launch a dialog box that prompts you to select your .csv. It al
 
 It will create a text file containing the html code (this is for ease of copying to blackboard) with the class roster, in the file where the python program is stored.
 
-When you have the text file, move the "</p>" at the top to the bottom of the .txt file
+When you have the text file, move the /p tag at the top to the bottom of the .txt file
